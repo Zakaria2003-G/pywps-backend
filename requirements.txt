@@ -1,0 +1,12 @@
+pywps==4.6.0
+geopandas==1.1.1
+shapely
+rasterio
+rioxarray
+xarray
+netCDF4
+whitebox
+gunicorn
+jinja2
+requests
+lxml
