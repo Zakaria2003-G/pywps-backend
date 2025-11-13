@@ -10,3 +10,8 @@ gunicorn
 jinja2
 requests
 lxml
+flask
+Werkzeug==2.3.0
+numpy
+pandas
+
